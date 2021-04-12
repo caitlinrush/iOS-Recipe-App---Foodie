@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Foodie
+
+  Created by Caitlin Rush on 2020-12-10.
+  
+*/
+
+"Creating Recipes Starts With You" = "Creating Recipes Starts With You";
+
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Creating Account" = "Creating Account";
+"Create Account" = "Create Account";
+"Sign Up" = "Sign Up";
+
+"Password Recovery" = "Password Recovery";
+"Remember Me" = "Remember Me";
+
+"Forgot button clicked" = "Forgot button clicked";
+"Forgot Password?" = "Forgot Password?";
+"New User? Create Account" = "New User? Create Account";
+"Sign In" = "Sign In";
+"Error" = "Error";
+"Incorrect Login" = "Incorrect Login";
+"Try Again" = "Try Again";
+"Empty Login" = "Empty Login";
+
+"Your Recipes" = "Your Recipes";
+
+"View Recipe List" = "View Recipe List";
+"Search Recipe" = "Search Recipe";
+"Delete Account" = "Delete Account";
+"Manage Profile" = "Manage Profile";
+"Sign Out" = "Sign Out";
+
+"Enter query" = "Enter query";
+"Enter" = "Enter";
+"Recipes" = "Recipes";
+
+"Upload Photo" = "Upload Photo";
+"Select Photo" = "Select Photo";
+"Choose the photo to upload" = "Choose the photo to upload";
+"Choose from Photo Library" = "Choose from Photo Library";
+"Take a new picture from camera" = "Take a new picture from camera";
+"Profile View" = "Profile View";
+
+"Add the recipes to your list" = "Add the recipes to your list";
+"Title" = "Title";
+"Description" = "Description";
+"Add My Recipe" = "Add My Recipe";

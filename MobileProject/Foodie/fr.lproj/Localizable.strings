@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Foodie
+
+  Created by Caitlin Rush on 2020-12-10.
+  
+*/
+
+
+"Creating Recipes Starts With You" = "La création de recettes commence par vous";
+
+"Name" = "Nom";
+"Email" = "E-mail";
+"Password" = "Mot de passe";
+"Confirm Password" = "Confirmer le mot de passe";
+"Creating Account" = "Créer un compte";
+"Create Account" = "Créer un compte";
+"Sign Up" = "Inscription";
+
+"Password Recovery" = "Password Recovery";
+"Remember Me" = "Souviens-toi de moi";
+
+"Forgot button clicked" = "Bouton oublié";
+"Forgot Password?" = "Mot de passe oublié?";
+"New User? /nCreate Account" = "Nouvel utilisateur? Créer un compte";
+"Sign In" = "Connexion";
+"Error" = "Erreur";
+"Incorrect Login" = "Connexion incorrecte";
+"Try Again" = "Réessayer";
+"Empty Login" = "Connexion vide";
+
+"Your Recipes" = "Vos recettes";
+
+"View Recipe List" = "Afficher la liste de recettes";
+"Search Recipe" = "Rechercher une recette";
+"Delete Account" = "Supprimer le compte";
+"Manage Profile" = "Gérer le profil";
+"Sign Out" = "Déconnexion";
+
+"Enter query" = "Entrer requête";
+"Enter" = "Entrer";
+"Recipes" = "Recettes";
+
+"Upload Photo" = "Télécharger une photo";
+"Select Photo" = "Sélectionner une photo";
+"Choose the photo to upload" = "Choisissez la photo à télécharger";
+"Choose from Photo Library" = "Choisissez dans la photothèque";
+"Take a new picture from camera" = "Prendre une nouvelle photo de la caméra";
+"Profile View" = "Vue de profil";
+
+"Add the recipes to your list" = "Ajouter les recettes à votre liste";
+"Title" = "Titre";
+"Description" = "Description";
+"Add My Recipe" = "Ajouter ma recette";
